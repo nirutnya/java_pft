@@ -1,0 +1,2 @@
+ru/stqa/gft/TestRoseltorg/TestRoseltorgRegister.java
+ ru.stqa.gft.TestRoseltorg.TestRoseltorgRegister
